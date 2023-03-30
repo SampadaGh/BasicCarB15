@@ -4,5 +4,10 @@ public class Main {
         audi.color="black";
         audi.model="A3";
         audi.power="5000cc";
+
+        color col= new color();
+        col.colorLights="True";
+        col.colorTyre="false";
+        col.colorWindows="True";
     }
 }
